@@ -4,6 +4,7 @@ I am an **MSc Bioinformatics Student** at **Panjab University (PU)**, focused on
 
 ## 🧬 About Me
 - 🎓 Pursuing my **Master of Science (MSc) in Bioinformatics** from **Panjab University**.
+- 📜 Completed a specialized certification in **Data Analytics (Python with Data Science and Machine Learning)**
 - 💻 Currently working on data analysis pipelines using **Python** and **R**.
 - 🌱 Constantly learning new computational tools to bridge the gap between Biology and Tech.
 - 🔍 Open to collaborating on open-source bioinformatics workflows.
