@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Akshita! 👋
 
-<!--
-**akshii-thakur/akshii-thakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **MSc Bioinformatics Student** focused on data analysis and computational biology. I use programming to analyze biological datasets and find meaningful insights.
 
-Here are some ideas to get you started:
+## 🧬 About Me
+- 🎓 Pursuing my **Master of Science (MSc) in Bioinformatics**.
+- 💻 Currently working on data analysis pipelines using **Python** and **R**.
+- 🌱 Constantly learning new computational tools to bridge the gap between Biology and Tech.
+- 🔍 Open to collaborating on open-source bioinformatics workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Toolkit
+- **Programming Languages:** Python, R Programming, Bash/Linux
+- **Data Analysis:** Git/GitHub, Pandas, NumPy
+- **Core Interests:** Sequence Alignment, Genomics, Data Visualization
+
+## 📊 GitHub Stats
+![Akshita's GitHub Stats](https://vercel.app)
+
+## 📫 How to Reach Me
+- 📧 Email: akshitathakur1725@gmail.com
+-
